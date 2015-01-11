@@ -1,2 +1,7 @@
 # Question2Answer-Persian-Language
-Add Files To /qa-lang/
+
+Persian language pack for Qestion2answers v. 1.7.x
+
+Installation
+
+Place the files in qa-lang/da and change the language settings.
