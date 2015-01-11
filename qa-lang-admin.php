@@ -5,7 +5,6 @@
 
 	http://www.question2answer.org/
 
-
 	File: qa-include/qa-lang-admin.php
 	Version: See define()s at top of qa-include/qa-base.php
 	Description: Language phrases for admin center
